@@ -1,0 +1,1 @@
+gabosoft_ms_report_stock
