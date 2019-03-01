@@ -1,11 +1,11 @@
 {
     "name"          : "Stock Report",
     "version"       : "1.0",
-    "author"        : "Miftahussalam",
-    "website"       : "https://miftahussalam.com",
+    "author"        : "Gabosoft",
+    "website"       : "https://gabosoft.ape",
     "category"      : "Reporting",
     "license"       : "LGPL-3",
-    "support"       : "me@miftahussalam.com",
+    "support"       : "Gabosoft",
     "summary"       : "Stock Report",
     "description"   : """
         Stock Report
